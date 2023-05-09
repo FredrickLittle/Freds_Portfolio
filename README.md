@@ -1,7 +1,7 @@
 # Fred's_Portfolio
 
 
-#Project 1 : BellaBeat Case Study
+#Project 1 : BellaBeat CaseStudy
 
 This is a project where I analyze data gathered from BellaBeat's fitness tracker.
 
