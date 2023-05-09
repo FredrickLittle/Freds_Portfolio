@@ -1,4 +1,3 @@
-# Fred's_Portfolio
 
 
 [#Project 1 : BellaBeat CaseStudy](https://medium.com/@little.fredrick46/bellabeat-smart-device-fitness-tracker-analysis-3bec7f7c061e)
