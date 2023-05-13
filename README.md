@@ -11,7 +11,7 @@ This is a project where I analyze data gathered from BellaBeat's fitness tracker
 
 [#Project 2 : Scraplanta Data Wrangling & Visualization](https://medium.com/@little.fredrick46/scraplanta-data-wrangling-visualization-f6e02133c6d9)
 
-This is a project where I Processed, Analyzed and Visualized data from a local non profit.
+This is a project where I processed, analyzed and visualized data from a local non profit.
 
 * Uses Excel.
 * Project exhibits the use of Excel function,formulas, querys and tables.
