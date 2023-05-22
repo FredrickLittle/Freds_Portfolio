@@ -16,5 +16,5 @@ This is a project where I processed, analyzed and visualized data from a local n
 * Uses Excel.
 * Project exhibits the use of Excel function,formulas, querys and tables.
 * Write up on [Medium](https://medium.com/@little.fredrick46/scraplanta-data-wrangling-visualization-f6e02133c6d9)
-* [Spreadsheet][(https://github.com/FredrickLittle/Freds_Portfolio/blob/main/Scraplanta%20Data%20Wrangling%20and%20Visulaization.xlsx)]
+* [Spreadsheet][(https://github.com/FredrickLittle/Freds_Portfolio/blob/main/Scraplanta%20Data%20Wrangling%20and%20Visulaization.xlsx)].
 
