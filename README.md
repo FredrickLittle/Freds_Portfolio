@@ -2,7 +2,7 @@
 
 [#Project 1 : Anime Planet Analysis](https://medium.com/@little.fredrick46/anime-planet-analysis-f75c95a6bb1b)
 
-This is a project where I analyze a dataset from Animeplanet to aid in the selection of a new content source for a anonymous anime studio.
+This is a project where I analyze a dataset from Animeplanet to aid in the selection of a new content source for a anonymous anime studio
 
 * Uses Excel.
 * Project exhibits COUNTIF, deliminer and basic functions.
